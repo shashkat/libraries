@@ -1,0 +1,8 @@
+,temperature,day,date,wind speed,event
+0,23.0,monday,1,23,rain
+1,53.0,tuesday,2,44,snow
+2,83.0,wednesday,3,55,sunny
+3,23.0,thursday,4,11,rain
+4,12.0,friday,5,66,snow
+5,33.0,saturday,6,88,rain
+6,44.0,sunday,7,43,snow

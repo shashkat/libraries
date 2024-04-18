@@ -44,7 +44,7 @@ To install pandas, type in terminal: `pip install pandas`, or simply run the cel
 
 ### Tutorial
 
-One can just follow along the main.ipynb file in this directory. The comments in the file indicate the specifics of each command.
+One can just follow along the **main.ipynb** file in this directory. The comments in the file indicate the specifics of each command.
 
 It would be better to clone this repository and then run the main.ipynb locally. To clone the repository, open terminal and go to the location where you want to clone this repo, and run `git clone https://github.com/shashkat/libraries.git`
 
